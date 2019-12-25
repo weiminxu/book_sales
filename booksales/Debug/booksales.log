@@ -1,8 +1,2 @@
 ﻿  main.cpp
-D:\git\visual_studio_code\book_sales\booksales\Sales_item.h(61,16): error C2248: 'Sales_item::bookprice': cannot access private member declared in class 'Sales_item'
-D:\git\visual_studio_code\book_sales\booksales\Sales_item.h(14): message : see declaration of 'Sales_item::bookprice'
-D:\git\visual_studio_code\book_sales\booksales\Sales_item.h(9): message : see declaration of 'Sales_item'
-D:\git\visual_studio_code\book_sales\booksales\Sales_item.h(61,18): error C2065: 'bookprice': undeclared identifier
-D:\git\visual_studio_code\book_sales\booksales\Sales_item.h(61,43): error C2248: 'Sales_item::bookprice': cannot access private member declared in class 'Sales_item'
-D:\git\visual_studio_code\book_sales\booksales\Sales_item.h(14): message : see declaration of 'Sales_item::bookprice'
-D:\git\visual_studio_code\book_sales\booksales\Sales_item.h(9): message : see declaration of 'Sales_item'
+  booksales.vcxproj -> D:\git\visual_studio_code\book_sales\booksales\Debug\booksales.exe
